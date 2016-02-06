@@ -1,10 +1,10 @@
 ---
-title: Lectures
+title: Teaching
 layout: page
-permalink: /lectures/index.html
+permalink: /teaching/index.html
 ---
-#Lectures
 
+# Teaching
 
 ## 2016
 

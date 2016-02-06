@@ -1,7 +1,7 @@
 ---
-title: About
+title: Research
 layout: page
-permalink: /about/index.html
+permalink: /research/index.html
 ---
 
 # Kenji Sato
