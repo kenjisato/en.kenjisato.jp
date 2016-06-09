@@ -9,7 +9,7 @@ permalink: /teaching/index.html
 **Office**: Faculty Offices (Dainikenkyushitsu) Room #208<br>
 **Office Hours**:
 
-- Tuesdays, 13:20-14:50 
+- Tuesdays, 13:20-14:50
 - Wednesdays, 10:40-12:10
 - ... and upon request.
 
@@ -19,13 +19,14 @@ permalink: /teaching/index.html
 
 Intermediate to advanced macroeconomics course, designed for GMAP students. Provided in English.
 
-- 2016 (Q2 & Q4)
+- [2016 Q2](/teaching/ma/2016Q2)
+- [2016 Q4]
 
 ## Economic Dynamics (Kobe Univ.)
 
-Graduate level economic dynamics. Provided in Japanese. Some course materials are written in English. 
+Graduate level economic dynamics. Provided in Japanese. Some course materials are written in English.
 
-- 2016 (Q1)
+- [2016 (Q1)](http://www.kenjisato.jp/teaching/ed/2016) [in Japanese]
 - [2015 (Spring)](http://www.kenjisato.jp/teaching/ed/2015) [in Japanese]
 
 
@@ -40,4 +41,3 @@ Advanced undergraduate lecture on economic policy, introductory public choice. P
 ## Other courses
 
 -  (in Japanese)
-
