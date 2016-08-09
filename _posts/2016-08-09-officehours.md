@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Office hours on August and Septempber
+title: Office hours on August and September
 date: '2016-08-09'
 author: Kenji Sato
 tags:
