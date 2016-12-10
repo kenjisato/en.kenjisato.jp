@@ -19,8 +19,8 @@ permalink: /teaching/index.html
 
 Intermediate to advanced macroeconomics course, designed for GMAP students. Provided in English.
 
+- [2016 Q4](/teaching/ma/2016Q4)
 - [2016 Q2](/teaching/ma/2016Q2)
-- [2016 Q4]
 
 ## Economic Dynamics (Kobe Univ.)
 
