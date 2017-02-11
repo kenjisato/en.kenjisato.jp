@@ -14,7 +14,6 @@ You can cross-reference equations in Rmarkdown if you set output to
 `bookdown::pdf_document2` and write equations within
 `\begin{align} ~ \end{align}` or `\begin{equation} ~ \end{equation}`
 
-
 To make a tag, put `(\#eq:label_name)` inside a math environment. The equation
 can be cross-referenced by  `\＠ref(eq:label_name)`. See [this stackoverflow answer by Yihui Xie](http://stackoverflow.com/a/38884378/1877682) and
 [the related section of his bookdown book](https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#equations) for more detail.
@@ -80,9 +79,9 @@ Add `knit: .render_for_math` to the YAML header of your Rmd file.
 Then the Knit button of RStudio is overwritten with the custom renderer
 with preprocessing defined in .Rprofile.
 
-The YAML header looks like
+The YAML fromtmatter looks like
 
-```
+```yml
 ---
 title: title
 author: author
