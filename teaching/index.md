@@ -4,6 +4,10 @@ layout: page
 permalink: /teaching/index.html
 ---
 
+<span style="font-weight: bold; color:red">This page is obsolete! Visit here  [https://www.kenjisato.jp/en/teaching](https://www.kenjisato.jp/en/teaching)
+</span>
+
+
 # Teaching
 
 **Office**: Faculty Offices (Dainikenkyushitsu) Room #208<br>
